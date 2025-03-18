@@ -15,6 +15,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import org.json.JSONException;
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin;
 import io.flutter.embedding.engine.plugins.activity.ActivityAware;
@@ -35,6 +36,7 @@ public class RazorpayPlugin implements FlutterPlugin, MethodCallHandler, Activit
   private RazorpayDelegate razorpayDelegate;
   private ActivityPluginBinding pluginBinding;
   private MethodChannel channel;
+  private static String CHANNEL_NAME = "razorpay_flutter_customui";
 
   @RequiresApi(api = Build.VERSION_CODES.KITKAT)
   public RazorpayPlugin() {
@@ -42,7 +44,7 @@ public class RazorpayPlugin implements FlutterPlugin, MethodCallHandler, Activit
 
   @Override
   public void onAttachedToEngine(@NonNull FlutterPluginBinding flutterPluginBinding) {
-    channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "razorpay_flutter_customui");
+    channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), CHANNEL_NAME);
     channel.setMethodCallHandler(this);
   }
 
@@ -116,17 +118,18 @@ public class RazorpayPlugin implements FlutterPlugin, MethodCallHandler, Activit
     channel.setMethodCallHandler(null);
   }
 
-  @RequiresApi(api = Build.VERSION_CODES.KITKAT)
-  public RazorpayPlugin(Registrar registrar) {
-    this.razorpayDelegate = new RazorpayDelegate(registrar.activity());
-    registrar.addActivityResultListener(razorpayDelegate);
-  }
+  // @RequiresApi(api = Build.VERSION_CODES.KITKAT)
+  // public RazorpayPlugin(Registrar registrar) {
+  //   this.razorpayDelegate = new RazorpayDelegate(registrar.activity());
+  //   registrar.addActivityResultListener(razorpayDelegate);
+  // }
 
   @RequiresApi(api = Build.VERSION_CODES.KITKAT)
   @Override
   public void onAttachedToActivity(ActivityPluginBinding activityPluginBinding) {
     this.razorpayDelegate = new RazorpayDelegate(activityPluginBinding.getActivity());
     this.pluginBinding = activityPluginBinding;
+    razorpayDelegate.setPackageName(activityPluginBinding.getActivity().getPackageName());
     activityPluginBinding.addActivityResultListener(razorpayDelegate);
   }
 

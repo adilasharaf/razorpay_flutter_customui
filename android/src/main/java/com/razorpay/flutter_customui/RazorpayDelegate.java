@@ -17,7 +17,6 @@ import androidx.annotation.RequiresApi;
 import com.google.gson.Gson;
 import com.razorpay.ApplicationDetails;
 import com.razorpay.PaymentData;
-//import com.razorpay.PaymentMethodsCallback;
 
 import com.razorpay.PaymentMethodsCallback;
 import com.razorpay.PaymentResultWithDataListener;
@@ -59,11 +58,16 @@ public class RazorpayDelegate implements ActivityResultListener {
     private static final int PAYMENT_CANCELLED = 0;
     private static final int TLS_ERROR = 6;
     private static final int UNKNOWN_ERROR = 100;
+    private String packageName;
 
 
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     public RazorpayDelegate(Activity activity) {
         this.activity = activity;
+    }
+
+     void setPackageName(String packageName){
+        this.packageName = packageName;
     }
 
     void init(String key, Result result) {
