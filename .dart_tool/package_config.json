@@ -92,6 +92,12 @@
       "languageVersion": "3.7"
     },
     {
+      "name": "flutter_lints",
+      "rootUri": "file:///home/adil/.pub-cache/hosted/pub.dev/flutter_lints-5.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///home/adil/Softwares/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -156,6 +162,12 @@
       "rootUri": "file:///home/adil/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.2"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///home/adil/.pub-cache/hosted/pub.dev/lints-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
     },
     {
       "name": "logging",
@@ -365,10 +377,10 @@
       "name": "razorpay_flutter_customui",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-03-18T10:21:58.250712Z",
+  "generated": "2025-04-04T10:09:07.207318Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///home/adil/Softwares/flutter",

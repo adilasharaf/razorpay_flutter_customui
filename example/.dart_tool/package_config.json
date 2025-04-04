@@ -170,13 +170,19 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "web",
+      "rootUri": "file:///home/adil/.pub-cache/hosted/pub.dev/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "razorpay_flutter_customui_example",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2025-03-18T09:56:49.074352Z",
+  "generated": "2025-04-04T10:07:36.687769Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///home/adil/Softwares/flutter",

@@ -20,13 +20,13 @@ class Razorpay {
   static const UNKNOWN_ERROR = 100;
 
   static const MethodChannel _channel =
-      const MethodChannel('razorpay_flutter_customui');
+      MethodChannel('razorpay_flutter_customui');
 
   // EventEmitter instance used for communication
   late EventEmitter _eventEmitter;
 
   Razorpay() {
-    _eventEmitter = new EventEmitter();
+    _eventEmitter = EventEmitter();
   }
 
   Future<Map<dynamic, dynamic>> getPaymentMethods() async {
@@ -148,9 +148,9 @@ class Razorpay {
 
   /// Registers event listeners for payment events
   void on(String event, Function handler) {
-    EventCallback cb = (event, cont) {
+    cb(event, cont) {
       handler(event.eventData);
-    };
+    }
     _eventEmitter.on(event, null, cb);
     _resync();
   }
@@ -192,7 +192,7 @@ class PaymentSuccessResponse {
     String signature = map["razorpay_signature"];
     String orderId = map["razorpay_order_id"];
 
-    return new PaymentSuccessResponse(paymentId, orderId, signature);
+    return PaymentSuccessResponse(paymentId, orderId, signature);
   }
 }
 
@@ -205,6 +205,6 @@ class PaymentFailureResponse {
   static PaymentFailureResponse fromMap(Map<dynamic, dynamic> map) {
     var code = map["http_status_code"] as int;
     var message = map["metadata.reason"] as String;
-    return new PaymentFailureResponse(code, message);
+    return PaymentFailureResponse(code, message);
   }
 }
