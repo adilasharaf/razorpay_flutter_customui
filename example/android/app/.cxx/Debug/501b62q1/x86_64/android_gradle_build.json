@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/home/adil/Softwares/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/adil/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/.cxx/Debug/501b62q1/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/adil/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/.cxx/Debug/501b62q1/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/adil/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/adil/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,34 @@
+com.razorpay.flutter_customui_example.app-jetified-play-services-auth-17.0.0-0 /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/res
+com.razorpay.flutter_customui_example.app-core-1.15.0-1 /home/adil/.gradle/caches/8.10.2/transforms/0a69220afb472c7b014f0ae28962f998/transformed/core-1.15.0/res
+com.razorpay.flutter_customui_example.app-jetified-activity-1.8.1-2 /home/adil/.gradle/caches/8.10.2/transforms/13dd610fda78ecd8ad3daad9b8195d7e/transformed/jetified-activity-1.8.1/res
+com.razorpay.flutter_customui_example.app-lifecycle-viewmodel-2.7.0-3 /home/adil/.gradle/caches/8.10.2/transforms/1b91be3af319ede480d7185430690ee1/transformed/lifecycle-viewmodel-2.7.0/res
+com.razorpay.flutter_customui_example.app-jetified-tracing-1.2.0-4 /home/adil/.gradle/caches/8.10.2/transforms/285b6d6abe2dd4ba9515886e610a7341/transformed/jetified-tracing-1.2.0/res
+com.razorpay.flutter_customui_example.app-jetified-core-1.0.0-5 /home/adil/.gradle/caches/8.10.2/transforms/47506b70b93177473c53f4d5d7e77c91/transformed/jetified-core-1.0.0/res
+com.razorpay.flutter_customui_example.app-jetified-window-1.2.0-6 /home/adil/.gradle/caches/8.10.2/transforms/5093ab42d2307deb2d7ac0b7f5718c38/transformed/jetified-window-1.2.0/res
+com.razorpay.flutter_customui_example.app-fragment-1.7.1-7 /home/adil/.gradle/caches/8.10.2/transforms/55520e4df2220e27f13f0bbb7467d11a/transformed/fragment-1.7.1/res
+com.razorpay.flutter_customui_example.app-jetified-customui-core-3.9.23-8 /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/res
+com.razorpay.flutter_customui_example.app-jetified-profileinstaller-1.3.1-9 /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/res
+com.razorpay.flutter_customui_example.app-jetified-play-services-wallet-18.1.3-10 /home/adil/.gradle/caches/8.10.2/transforms/926c98a973f3e0bc6183424922099452/transformed/jetified-play-services-wallet-18.1.3/res
+com.razorpay.flutter_customui_example.app-jetified-savedstate-1.2.1-11 /home/adil/.gradle/caches/8.10.2/transforms/b3d51a44ab6b56289d4858158a1ad6dd/transformed/jetified-savedstate-1.2.1/res
+com.razorpay.flutter_customui_example.app-jetified-core-ktx-1.15.0-12 /home/adil/.gradle/caches/8.10.2/transforms/ba79984f553f1a424188d94969e4fb4e/transformed/jetified-core-ktx-1.15.0/res
+com.razorpay.flutter_customui_example.app-lifecycle-runtime-2.7.0-13 /home/adil/.gradle/caches/8.10.2/transforms/c092edbccc16347970ed4f22e8da111a/transformed/lifecycle-runtime-2.7.0/res
+com.razorpay.flutter_customui_example.app-jetified-window-java-1.2.0-14 /home/adil/.gradle/caches/8.10.2/transforms/c1f85211ae6978d0218d51595a7f7e62/transformed/jetified-window-java-1.2.0/res
+com.razorpay.flutter_customui_example.app-jetified-annotation-experimental-1.4.1-15 /home/adil/.gradle/caches/8.10.2/transforms/c458939f30f1e90860cb5a0c34566e85/transformed/jetified-annotation-experimental-1.4.1/res
+com.razorpay.flutter_customui_example.app-jetified-play-services-basement-17.6.0-16 /home/adil/.gradle/caches/8.10.2/transforms/c4cdbe79513094099e258fdd679bdac1/transformed/jetified-play-services-basement-17.6.0/res
+com.razorpay.flutter_customui_example.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-17 /home/adil/.gradle/caches/8.10.2/transforms/c7156a54e8f0502a1f8f57797d8b3e6e/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.razorpay.flutter_customui_example.app-jetified-play-services-base-17.5.0-18 /home/adil/.gradle/caches/8.10.2/transforms/c7db287c245a2e4b42903ab6272f0f45/transformed/jetified-play-services-base-17.5.0/res
+com.razorpay.flutter_customui_example.app-jetified-startup-runtime-1.1.1-19 /home/adil/.gradle/caches/8.10.2/transforms/e0d9d3675465ff69d847e2f781f20c61/transformed/jetified-startup-runtime-1.1.1/res
+com.razorpay.flutter_customui_example.app-lifecycle-livedata-2.7.0-20 /home/adil/.gradle/caches/8.10.2/transforms/e0eede8414d1ee0e5f236daeb1a2e59a/transformed/lifecycle-livedata-2.7.0/res
+com.razorpay.flutter_customui_example.app-lifecycle-livedata-core-2.7.0-21 /home/adil/.gradle/caches/8.10.2/transforms/e2e21678784b3eef6b33f576b1691a56/transformed/lifecycle-livedata-core-2.7.0/res
+com.razorpay.flutter_customui_example.app-jetified-lifecycle-process-2.7.0-22 /home/adil/.gradle/caches/8.10.2/transforms/e80aa748ff6540407d8dba61c0d945fe/transformed/jetified-lifecycle-process-2.7.0/res
+com.razorpay.flutter_customui_example.app-jetified-lifecycle-livedata-core-ktx-2.7.0-23 /home/adil/.gradle/caches/8.10.2/transforms/ebeb29d7113d60e59d5e0acf92f847f3/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.razorpay.flutter_customui_example.app-jetified-play-services-maps-17.0.0-24 /home/adil/.gradle/caches/8.10.2/transforms/f6b2e99c87fb389379437eb83cb75fb5/transformed/jetified-play-services-maps-17.0.0/res
+com.razorpay.flutter_customui_example.app-core-runtime-2.2.0-25 /home/adil/.gradle/caches/8.10.2/transforms/ff849810dfe34a0ab790c402787c149e/transformed/core-runtime-2.2.0/res
+com.razorpay.flutter_customui_example.app-debug-26 /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/debug/res
+com.razorpay.flutter_customui_example.app-main-27 /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/res
+com.razorpay.flutter_customui_example.app-pngs-28 /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/app/generated/res/pngs/debug
+com.razorpay.flutter_customui_example.app-resValues-29 /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/app/generated/res/resValues/debug
+com.razorpay.flutter_customui_example.app-packageDebugResources-30 /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.razorpay.flutter_customui_example.app-packageDebugResources-31 /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.razorpay.flutter_customui_example.app-debug-32 /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/app/intermediates/merged_res/debug/mergeDebugResources
+com.razorpay.flutter_customui_example.app-debug-33 /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/packaged_res/debug/packageDebugResources

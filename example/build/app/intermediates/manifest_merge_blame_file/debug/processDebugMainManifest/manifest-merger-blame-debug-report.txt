@@ -1,0 +1,429 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.razorpay.flutter_customui_example"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="35" />
+10
+11    <queries>
+11-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-59:15
+12
+13        <!-- List of apps which you want to support for Intent pay -->
+14        <package android:name="com.google.android.apps.nbu.paisa.user" />
+14-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:9-74
+14-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:18-71
+15        <package android:name="com.phonepe.app" />
+15-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:9-51
+15-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:18-48
+16        <package android:name="in.org.npci.upiapp" />
+16-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:9-54
+16-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:18-51
+17        <package android:name="com.google.android.apps.nbu.paisa.user" />
+17-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:9-74
+17-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:18-71
+18        <package android:name="in.org.npci.upiapp" />
+18-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:9-54
+18-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:18-51
+19        <package android:name="com.phonepe.app" />
+19-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:9-51
+19-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:18-48
+20        <package android:name="com.myairtelapp" />
+20-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:9-51
+20-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:18-48
+21        <package android:name="com.myairtelapp.debug" />
+21-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:9-57
+21-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:18-54
+22        <package android:name="com.csam.icici.bank.imobile" />
+22-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:9-63
+22-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:18:18-60
+23        <package android:name="net.one97.paytm" />
+23-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-51
+23-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:18-48
+24        <package android:name="com.sbi.upi" />
+24-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:9-47
+24-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:18-44
+25        <package android:name="com.upi.axispay" />
+25-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:9-51
+25-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:18-48
+26        <package android:name="com.samsung.android.spaymini" />
+26-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:9-64
+26-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:18-61
+27        <package android:name="com.samsung.android.spay" />
+27-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:9-60
+27-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:18-57
+28        <package android:name="com.snapwork.hdfc" />
+28-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:9-53
+28-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:18-50
+29        <package android:name="com.fss.pnbpsp" />
+29-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:9-50
+29-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:18-47
+30        <package android:name="com.icicibank.pockets" />
+30-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:9-57
+30-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:18-54
+31        <package android:name="com.bankofbaroda.upi" />
+31-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:9-56
+31-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:18-53
+32        <package android:name="com.freecharge.android" />
+32-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:9-58
+32-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:18-55
+33        <package android:name="com.fss.unbipsp" />
+33-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:9-51
+33-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:18-48
+34        <package android:name="com.axis.mobile" />
+34-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:9-51
+34-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:18-48
+35        <package android:name="com.mycompany.kvb" />
+35-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:9-53
+35-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:18-50
+36        <package android:name="com.fss.vijayapsp" />
+36-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:9-53
+36-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:18-50
+37        <package android:name="com.dena.upi.gui" />
+37-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:9-52
+37-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:18-49
+38        <package android:name="com.fss.jnkpsp" />
+38-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:9-50
+38-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:18-47
+39        <package android:name="com.olive.kotak.upi" />
+39-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:9-55
+39-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:35:18-52
+40        <package android:name="com.enstage.wibmo.hdfc" />
+40-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:9-58
+40-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:18-55
+41        <package android:name="com.bsb.hike" />
+41-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:37:9-48
+41-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:37:18-45
+42        <package android:name="com.fss.idfcpsp" />
+42-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:9-51
+42-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:38:18-48
+43        <package android:name="com.YesBank" />
+43-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:9-47
+43-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:18-44
+44        <package android:name="com.abipbl.upi" />
+44-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:9-50
+44-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:18-47
+45        <package android:name="com.microsoft.mobile.polymer" />
+45-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:9-64
+45-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:18-61
+46        <package android:name="com.finopaytech.bpayfino" />
+46-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:9-60
+46-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:18-57
+47        <package android:name="com.mgs.obcbank" />
+47-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:9-51
+47-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:18-48
+48        <package android:name="com.upi.federalbank.org.lotza" />
+48-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:9-65
+48-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:18-62
+49        <package android:name="com.mgs.induspsp" />
+49-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:9-52
+49-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:18-49
+50        <package android:name="ai.wizely.android" />
+50-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:46:9-53
+50-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:46:18-50
+51        <package android:name="com.olive.dcb.upi" />
+51-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:47:9-53
+51-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:47:18-50
+52        <package android:name="com.mgs.yesmerchantnative.prod" />
+52-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:48:9-66
+52-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:48:18-63
+53        <package android:name="com.example.demo" />
+53-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:49:9-52
+53-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:49:18-49
+54        <package android:name="in.amazon.mShop.android.shopping" />
+54-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:50:9-68
+54-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:50:18-65
+55
+56        <!--
+57             Specific intents you query for,
+58             eg: for a custom share UI
+59        -->
+60        <intent>
+60-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:56:9-58:18
+61            <action android:name="android.intent.action.SEND" />
+61-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:57:13-65
+61-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:57:21-62
+62        </intent>
+63        <intent>
+63-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:11:9-17:18
+64            <action android:name="android.intent.action.VIEW" />
+64-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:12:13-65
+64-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:12:21-62
+65
+66            <data
+66-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:14:13-16:38
+67                android:mimeType="*/*"
+67-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:15:17-39
+68                android:scheme="*" />
+68-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:16:17-35
+69        </intent>
+70        <intent>
+70-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:18:9-27:18
+71            <action android:name="android.intent.action.VIEW" />
+71-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:12:13-65
+71-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:12:21-62
+72
+73            <category android:name="android.intent.category.BROWSABLE" />
+73-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:21:13-74
+73-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:21:23-71
+74
+75            <data
+75-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:14:13-16:38
+76                android:host="pay"
+77                android:mimeType="*/*"
+77-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:15:17-39
+78                android:scheme="upi" />
+78-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:16:17-35
+79        </intent>
+80        <intent>
+80-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:28:9-30:18
+81            <action android:name="android.intent.action.MAIN" />
+81-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:34:17-68
+81-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:34:25-66
+82        </intent>
+83        <intent>
+83-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:31:9-35:18
+84            <action android:name="android.intent.action.SEND" />
+84-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:57:13-65
+84-->[:razorpay_flutter_customui] /home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/build/razorpay_flutter_customui/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:57:21-62
+85
+86            <data android:mimeType="*/*" />
+86-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:14:13-16:38
+86-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:15:17-39
+87        </intent>
+88    </queries>
+89
+90    <uses-permission android:name="android.permission.INTERNET" />
+90-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:7:5-67
+90-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:7:22-64
+91    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+91-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:8:5-79
+91-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:8:22-76
+92
+93    <uses-feature
+93-->[com.google.android.gms:play-services-maps:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/f6b2e99c87fb389379437eb83cb75fb5/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+94        android:glEsVersion="0x00020000"
+94-->[com.google.android.gms:play-services-maps:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/f6b2e99c87fb389379437eb83cb75fb5/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+95        android:required="true" />
+95-->[com.google.android.gms:play-services-maps:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/f6b2e99c87fb389379437eb83cb75fb5/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+96
+97    <permission
+97-->[androidx.core:core:1.15.0] /home/adil/.gradle/caches/8.10.2/transforms/0a69220afb472c7b014f0ae28962f998/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+98        android:name="com.razorpay.flutter_customui_example.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+98-->[androidx.core:core:1.15.0] /home/adil/.gradle/caches/8.10.2/transforms/0a69220afb472c7b014f0ae28962f998/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+99        android:protectionLevel="signature" />
+99-->[androidx.core:core:1.15.0] /home/adil/.gradle/caches/8.10.2/transforms/0a69220afb472c7b014f0ae28962f998/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+100
+101    <uses-permission android:name="com.razorpay.flutter_customui_example.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+101-->[androidx.core:core:1.15.0] /home/adil/.gradle/caches/8.10.2/transforms/0a69220afb472c7b014f0ae28962f998/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+101-->[androidx.core:core:1.15.0] /home/adil/.gradle/caches/8.10.2/transforms/0a69220afb472c7b014f0ae28962f998/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+102
+103    <application
+103-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:4:4-43:19
+104        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+104-->[androidx.core:core:1.15.0] /home/adil/.gradle/caches/8.10.2/transforms/0a69220afb472c7b014f0ae28962f998/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+105        android:debuggable="true"
+106        android:extractNativeLibs="true"
+107        android:icon="@mipmap/ic_launcher"
+107-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:6:9-43
+108        android:label="razorpay_flutter_customui_example" >
+108-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:5:9-58
+109        <activity
+109-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:7:9-37:20
+110            android:name="com.razorpay.flutter_customui_example.MainActivity"
+110-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:8:13-41
+111            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+111-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:13:13-163
+112            android:exported="true"
+112-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:9:13-36
+113            android:hardwareAccelerated="true"
+113-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:14:13-47
+114            android:launchMode="singleTop"
+114-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:10:13-43
+115            android:taskAffinity=""
+115-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:11:13-36
+116            android:theme="@style/LaunchTheme"
+116-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:12:13-47
+117            android:windowSoftInputMode="adjustResize" >
+117-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:15:13-55
+118
+119            <!--
+120                 Specifies an Android theme to apply to this Activity as soon as
+121                 the Android process has started. This theme is visible to the user
+122                 while the Flutter UI initializes. After that, this theme continues
+123                 to determine the Window background behind the Flutter UI.
+124            -->
+125            <meta-data
+125-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:20:13-23:17
+126                android:name="io.flutter.embedding.android.NormalTheme"
+126-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:21:15-70
+127                android:resource="@style/NormalTheme" />
+127-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:22:15-52
+128            <!--
+129                 Displays an Android View that continues showing the launch screen
+130                 Drawable until Flutter paints its first frame, then this splash
+131                 screen fades out. A splash screen is useful to avoid any visual
+132                 gap between the end of Android's launch screen and the painting of
+133                 Flutter's first frame.
+134            -->
+135            <meta-data
+135-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:29:13-32:17
+136                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+136-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:30:15-79
+137                android:resource="@drawable/launch_background" />
+137-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:31:15-61
+138
+139            <intent-filter>
+139-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:33:13-36:29
+140                <action android:name="android.intent.action.MAIN" />
+140-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:34:17-68
+140-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:34:25-66
+141
+142                <category android:name="android.intent.category.LAUNCHER" />
+142-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:35:17-76
+142-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:35:27-74
+143            </intent-filter>
+144        </activity>
+145        <activity android:name="com.razorpay.flutter_customui.RazorpayPaymentActivity" />
+145-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/debug/AndroidManifest.xml:35:9-89
+145-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/debug/AndroidManifest.xml:35:19-87
+146        <!--
+147             Don't delete the meta-data below.
+148             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+149        -->
+150        <meta-data
+150-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:40:9-42:33
+151            android:name="flutterEmbedding"
+151-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:41:13-44
+152            android:value="2" />
+152-->/home/adil/Workspace/My Projects/Flutter/packages/razorpay/razorpay_flutter_customui/example/android/app/src/main/AndroidManifest.xml:42:13-30
+153
+154        <uses-library
+154-->[androidx.window:window:1.2.0] /home/adil/.gradle/caches/8.10.2/transforms/5093ab42d2307deb2d7ac0b7f5718c38/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+155            android:name="androidx.window.extensions"
+155-->[androidx.window:window:1.2.0] /home/adil/.gradle/caches/8.10.2/transforms/5093ab42d2307deb2d7ac0b7f5718c38/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+156            android:required="false" />
+156-->[androidx.window:window:1.2.0] /home/adil/.gradle/caches/8.10.2/transforms/5093ab42d2307deb2d7ac0b7f5718c38/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+157        <uses-library
+157-->[androidx.window:window:1.2.0] /home/adil/.gradle/caches/8.10.2/transforms/5093ab42d2307deb2d7ac0b7f5718c38/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+158            android:name="androidx.window.sidecar"
+158-->[androidx.window:window:1.2.0] /home/adil/.gradle/caches/8.10.2/transforms/5093ab42d2307deb2d7ac0b7f5718c38/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+159            android:required="false" />
+159-->[androidx.window:window:1.2.0] /home/adil/.gradle/caches/8.10.2/transforms/5093ab42d2307deb2d7ac0b7f5718c38/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+160
+161        <meta-data
+161-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:39:9-41:58
+162            android:name="com.razorpay.plugin.googlepay_all"
+162-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:40:13-61
+163            android:value="com.razorpay.RzpGpayMerged" />
+163-->[com.razorpay:customui-core:3.9.23] /home/adil/.gradle/caches/8.10.2/transforms/5ecffa1dcd4a766bbd7b462d11cb779a/transformed/jetified-customui-core-3.9.23/AndroidManifest.xml:41:13-55
+164
+165        <activity
+165-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+166            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+166-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+167            android:excludeFromRecents="true"
+167-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+168            android:exported="false"
+168-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+169            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+169-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+170        <!--
+171            Service handling Google Sign-In user revocation. For apps that do not integrate with
+172            Google Sign-In, this service will never be started.
+173        -->
+174        <service
+174-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+175            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+175-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+176            android:exported="true"
+176-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+177            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" /> <!-- Needs to be explicitly declared on P+ -->
+177-->[com.google.android.gms:play-services-auth:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/0623249ce01b78b8f8b9b3a71d78ed62/transformed/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+178        <uses-library
+178-->[com.google.android.gms:play-services-maps:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/f6b2e99c87fb389379437eb83cb75fb5/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+179            android:name="org.apache.http.legacy"
+179-->[com.google.android.gms:play-services-maps:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/f6b2e99c87fb389379437eb83cb75fb5/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+180            android:required="false" />
+180-->[com.google.android.gms:play-services-maps:17.0.0] /home/adil/.gradle/caches/8.10.2/transforms/f6b2e99c87fb389379437eb83cb75fb5/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+181
+182        <activity
+182-->[com.google.android.gms:play-services-base:17.5.0] /home/adil/.gradle/caches/8.10.2/transforms/c7db287c245a2e4b42903ab6272f0f45/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+183            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+183-->[com.google.android.gms:play-services-base:17.5.0] /home/adil/.gradle/caches/8.10.2/transforms/c7db287c245a2e4b42903ab6272f0f45/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+184            android:exported="false"
+184-->[com.google.android.gms:play-services-base:17.5.0] /home/adil/.gradle/caches/8.10.2/transforms/c7db287c245a2e4b42903ab6272f0f45/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+185            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+185-->[com.google.android.gms:play-services-base:17.5.0] /home/adil/.gradle/caches/8.10.2/transforms/c7db287c245a2e4b42903ab6272f0f45/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+186
+187        <meta-data
+187-->[com.google.android.gms:play-services-basement:17.6.0] /home/adil/.gradle/caches/8.10.2/transforms/c4cdbe79513094099e258fdd679bdac1/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+188            android:name="com.google.android.gms.version"
+188-->[com.google.android.gms:play-services-basement:17.6.0] /home/adil/.gradle/caches/8.10.2/transforms/c4cdbe79513094099e258fdd679bdac1/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+189            android:value="@integer/google_play_services_version" />
+189-->[com.google.android.gms:play-services-basement:17.6.0] /home/adil/.gradle/caches/8.10.2/transforms/c4cdbe79513094099e258fdd679bdac1/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+190
+191        <provider
+191-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/adil/.gradle/caches/8.10.2/transforms/e80aa748ff6540407d8dba61c0d945fe/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+192            android:name="androidx.startup.InitializationProvider"
+192-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/adil/.gradle/caches/8.10.2/transforms/e80aa748ff6540407d8dba61c0d945fe/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+193            android:authorities="com.razorpay.flutter_customui_example.androidx-startup"
+193-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/adil/.gradle/caches/8.10.2/transforms/e80aa748ff6540407d8dba61c0d945fe/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+194            android:exported="false" >
+194-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/adil/.gradle/caches/8.10.2/transforms/e80aa748ff6540407d8dba61c0d945fe/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+195            <meta-data
+195-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/adil/.gradle/caches/8.10.2/transforms/e80aa748ff6540407d8dba61c0d945fe/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+196                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+196-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/adil/.gradle/caches/8.10.2/transforms/e80aa748ff6540407d8dba61c0d945fe/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+197                android:value="androidx.startup" />
+197-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/adil/.gradle/caches/8.10.2/transforms/e80aa748ff6540407d8dba61c0d945fe/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+198            <meta-data
+198-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+199                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+199-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+200                android:value="androidx.startup" />
+200-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+201        </provider>
+202
+203        <receiver
+203-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+204            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+204-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+205            android:directBootAware="false"
+205-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+206            android:enabled="true"
+206-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+207            android:exported="true"
+207-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+208            android:permission="android.permission.DUMP" >
+208-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+209            <intent-filter>
+209-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+210                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+210-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+210-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+211            </intent-filter>
+212            <intent-filter>
+212-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+213                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+213-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+213-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+214            </intent-filter>
+215            <intent-filter>
+215-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+216                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+216-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+216-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+217            </intent-filter>
+218            <intent-filter>
+218-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+219                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+219-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+219-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/adil/.gradle/caches/8.10.2/transforms/5f7dcf6815bacc3ae7f099ba801348de/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+220            </intent-filter>
+221        </receiver>
+222    </application>
+223
+224</manifest>

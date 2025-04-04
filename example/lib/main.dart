@@ -6,6 +6,8 @@ void main() {
 }
 
 class MyApp extends StatefulWidget {
+  const MyApp({Key? key}) : super(key: key);
+
   @override
   _MyAppState createState() => _MyAppState();
 }
@@ -24,6 +26,8 @@ class _MyAppState extends State<MyApp> {
 }
 
 class MyHomePage extends StatefulWidget {
+  const MyHomePage({Key? key}) : super(key: key);
+
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
@@ -101,10 +105,10 @@ class _MyHomePageState extends State<MyHomePage> {
                             ),
                           );
                         },
-                        child: Text('Purchase'),
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.green,
                         ),
+                        child: Text('Purchase'),
                       )
                     ],
                   ),

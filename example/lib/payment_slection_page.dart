@@ -5,6 +5,8 @@ import 'package:razorpay_flutter_customui_example/models/card_info_model.dart';
 enum PaymentMethods { card, upi, nb, wallet, vas }
 
 class PaymentSelectionPage extends StatefulWidget {
+  const PaymentSelectionPage({Key? key}) : super(key: key);
+
   @override
   _PaymentSelectionPageState createState() => _PaymentSelectionPageState();
 }
@@ -312,7 +314,7 @@ class _PaymentSelectionPageState extends State<PaymentSelectionPage> {
 
   Widget buildUPIForm() {
     upiNumber = '';
-    return Container(
+    return SizedBox(
       height: 200.0,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -408,7 +410,7 @@ class _PaymentSelectionPageState extends State<PaymentSelectionPage> {
   }
 
   Widget buildCardDetailsForm() {
-    return Container(
+    return SizedBox(
       height: 200.0,
       child: SingleChildScrollView(
         child: Column(
@@ -601,10 +603,10 @@ class PaymentTypeSelectionButton extends StatelessWidget {
   final String? paymentTitle;
   final VoidCallback? onPaymentTypeTap;
 
-  PaymentTypeSelectionButton({
+  const PaymentTypeSelectionButton({Key? key, 
     this.paymentTitle,
     this.onPaymentTypeTap,
-  });
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

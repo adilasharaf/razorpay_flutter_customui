@@ -3,29 +3,33 @@ version '1.0'
 
 buildscript {
     repositories {
-        mavenCentral()
         google()
+        mavenCentral()
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.1.0'
+        classpath("com.android.tools.build:gradle:8.7.0")
     }
 }
 
 rootProject.allprojects {
     repositories {
-        mavenCentral()
         google()
+        mavenCentral()
     }
 }
 
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 31
-
+    namespace = "com.razorpay.flutter_customui"
+    compileSdk = 35
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 21
     }
     lintOptions {
         disable 'InvalidPackage'
@@ -33,9 +37,9 @@ android {
     dependencies {
         implementation fileTree(include: ['*.jar'], dir: 'libs')
         implementation fileTree(dir: 'libs', include: ['*.aar'])
-        implementation 'com.razorpay:customui:3.9.+'
-        implementation 'com.google.code.gson:gson:2.8.7'
-        implementation "androidx.core:core:1.0.0"
+        implementation 'com.razorpay:customui:3.9.22'
+        implementation 'com.google.code.gson:gson:2.12.1'
+        implementation "androidx.core:core:1.15.0"
     }
 }
 
